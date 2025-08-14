@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B044234D-AA0E-4DF3-BE40-48355CA3AB25}|DOAN\\DOAN.csproj|d:\\d\u1EF1 \u00E1n\\sellingcosmetics-jlaevs\\sellingcosmetics\\doan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B044234D-AA0E-4DF3-BE40-48355CA3AB25}|DOAN\\DOAN.csproj|solutionrelative:doan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044234D-AA0E-4DF3-BE40-48355CA3AB25}|DOAN\\DOAN.csproj|D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\doan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B044234D-AA0E-4DF3-BE40-48355CA3AB25}|DOAN\\DOAN.csproj|solutionrelative:doan\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044234D-AA0E-4DF3-BE40-48355CA3AB25}|DOAN\\DOAN.csproj|D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\doan\\controllers\\giaohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044234D-AA0E-4DF3-BE40-48355CA3AB25}|DOAN\\DOAN.csproj|solutionrelative:doan\\controllers\\giaohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\DOAN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DOAN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\DOAN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DOAN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T10:18:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiaoHangController.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\DOAN\\Controllers\\GiaoHangController.cs",
+              "RelativeDocumentMoniker": "DOAN\\Controllers\\GiaoHangController.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\DOAN\\Controllers\\GiaoHangController.cs",
+              "RelativeToolTip": "DOAN\\Controllers\\GiaoHangController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:16:16.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\DOAN\\Web.config",
+              "RelativeDocumentMoniker": "DOAN\\Web.config",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n\\SellingCosmetics-jlaevs\\SellingCosmetics\\DOAN\\Web.config",
+              "RelativeToolTip": "DOAN\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-05T10:16:17.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
