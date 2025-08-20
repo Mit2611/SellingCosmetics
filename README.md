@@ -1,8 +1,14 @@
+## 🙋‍♂️ Ghi chú từ tác giả
+Đây là dự án nhóm trong quá trình học tập/thực hành.  
+Mặc dù không phải là dự án cá nhân, nhưng tôi đã nỗ lực hết sức trong phần việc của mình, chủ động tìm hiểu và đóng góp để hoàn thành dự án.  
+Tôi hy vọng dự án này sẽ thể hiện tinh thần học hỏi, khả năng làm việc nhóm cũng như sự cam kết của tôi trong công việc.
+
 # 💄 SellingCosmetics
 
-## 📌 Overview
-**SellingCosmetics** is a web application for managing and selling cosmetics products.  
-The project is developed with **ASP.NET MVC** using the **Model-View-Controller (MVC)** architecture, providing features such as product management, shopping cart, promotions, and reporting.
+## 📌 Tổng quan
+**SellingCosmetics** là một ứng dụng web dùng để quản lý và bán các sản phẩm mỹ phẩm.  
+Dự án được phát triển bằng **ASP.NET MVC** theo kiến trúc **Model-View-Controller (MVC)**, cung cấp các chức năng như quản lý sản phẩm, giỏ hàng, khuyến mãi và báo cáo.
+
 
 ---
 ## 🚀 Features
@@ -80,8 +86,9 @@ Visual Studio will auto-restore, or run:
 Update-Package -reinstall
 4. **Configure Database Connection**
 Edit the connection string in Web.config to match your local SQL Server instance.
-5. **Database Setup**
-Option 1: Run Entity Framework migrations.
-Option 2: Restore database from csdl moi/TMDTM.bak.
+5. **Database Setup**  
+   - Option 1: Run Entity Framework migrations.  
+   - Option 2: Restore database from `csdl moi/TMDTM.bak`.
+
 6. **Run the Project**
 Press F5 in Visual Studio to start debugging.
