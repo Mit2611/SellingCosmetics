@@ -92,5 +92,5 @@ Chỉnh sửa chuỗi kết nối trong file Web.config để khớp với SQL S
    - Option 1: Chạy Entity Framework migrations.
    - Option 2: Khôi phục cơ sở dữ liệu từ file csdl moi/TMDTM.bak.
 
-6. Chạy dự án**
+6. **Chạy dự án**
 Nhấn F5 trong Visual Studio để bắt đầu debug.
