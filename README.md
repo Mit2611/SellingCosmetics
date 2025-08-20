@@ -78,7 +78,7 @@ Dự án được phát triển bằng **ASP.NET MVC** theo kiến trúc **Model
 ---
 ## 🚀 Cài đặt & Thiết lập
 
-1. **Clone repository**  
+1. **Sao chép kho lưu trữ**  
    ```bash
    git clone https://github.com/Mit2611/SellingCosmetics.git
 2. **Mở solution**
