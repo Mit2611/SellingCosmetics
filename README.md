@@ -76,19 +76,21 @@ Dự án được phát triển bằng **ASP.NET MVC** theo kiến trúc **Model
 └── 📄 Web.config                 # Application configuration
 ```
 ---
-## 🚀 Installation & Setup
-1. **Clone the repository**
-   git clone[ https://github.com/Mit2611/SellingCosmetics.git](https://github.com/Mit2611/SellingCosmetics.git)
-2. **Open the solutio**
-Open DOAN.sln in Visual Studio.
-3. **Restore NuGet packages**
-Visual Studio will auto-restore, or run:
-Update-Package -reinstall
-4. **Configure Database Connection**
-Edit the connection string in Web.config to match your local SQL Server instance.
-5. **Database Setup**  
-   - Option 1: Run Entity Framework migrations.  
-   - Option 2: Restore database from `csdl moi/TMDTM.bak`.
+## 🚀 Cài đặt & Thiết lập
 
-6. **Run the Project**
-Press F5 in Visual Studio to start debugging.
+1. **Clone repository**  
+   ```bash
+   git clone https://github.com/Mit2611/SellingCosmetics.git
+2. **Mở solution**
+Mở file DOAN.sln trong Visual Studio.
+3. **Khôi phục gói NuGet**
+Visual Studio sẽ tự động khôi phục, hoặc bạn có thể chạy lệnh::
+Update-Package -reinstall
+4. **Cấu hình kết nối cơ sở dữ liệu**
+Chỉnh sửa chuỗi kết nối trong file Web.config để khớp với SQL Server trên máy của bạn.
+5. **Thiết lập cơ sở dữ liệu**  
+   - Option 1: Chạy Entity Framework migrations.
+   - Option 2: Khôi phục cơ sở dữ liệu từ file csdl moi/TMDTM.bak.
+
+6. Chạy dự án**
+Nhấn F5 trong Visual Studio để bắt đầu debug.
