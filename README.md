@@ -78,7 +78,7 @@ Dự án được phát triển bằng **ASP.NET MVC** theo kiến trúc **Model
 ---
 ## 🚀 Installation & Setup
 1. **Clone the repository**
-   git clone https://github.com/Mit2611/SellingCosmetics.git
+   git clone[ https://github.com/Mit2611/SellingCosmetics.git](https://github.com/Mit2611/SellingCosmetics.git)
 2. **Open the solutio**
 Open DOAN.sln in Visual Studio.
 3. **Restore NuGet packages**
