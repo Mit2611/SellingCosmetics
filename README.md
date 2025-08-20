@@ -80,7 +80,7 @@ Dự án được phát triển bằng **ASP.NET MVC** theo kiến trúc **Model
 
 1. **Sao chép kho lưu trữ**  
    ```bash
-   git clone https://github.com/Mit2611/SellingCosmetics.git
+   git clone [https://github.com/Mit2611/SellingCosmetics.git](https://github.com/Mit2611/SellingCosmetics.git)
 2. **Mở solution**
 Mở file DOAN.sln trong Visual Studio.
 3. **Khôi phục gói NuGet**
